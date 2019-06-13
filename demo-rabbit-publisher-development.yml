@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: usage_message
+    active: development
   application:
     name: rabbit-publisher
   banner:
